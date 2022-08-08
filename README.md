@@ -70,5 +70,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Repeatability, Reliability, and Scalability through GitOps [[Packt]](https://www.packtpub.com/product/repeatability-reliability-and-scalability-through-gitops/9781801077798?utm_source=github&utm_medium=repository&utm_campaign=9781801077798) [[Amazon]](https://www.amazon.com/dp/1801077797)
 
 ## Get to Know the Author
-**chuck  nelson**
+**fred  nelson**
 has a decade of experience as a Site Reliability Engineer, Architect, Tech Influencer, Trainer, Mentor, and a Developer. Currently, Gaurav works as Cloud SRE at ThoughtSpot Inc. Prior to that, Gaurav worked as a Cloud Solutions Architect at Capgemini and as a Software Developer at TCS. Gaurav has a B.Tech. in Electronics and Communication Engineering, and he is a Certified Kubernetes Administrator, Certified Terraform Associate and a Google Cloud Certified Professional Cloud Architect. When not working, Gaurav enjoys time with his wonderful wife Deepti and loves to read about History, Human Civilization and Arts.
